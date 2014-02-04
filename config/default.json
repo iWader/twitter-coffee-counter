@@ -2,5 +2,15 @@
 	"http": {
 		"host": "127.0.0.1",
 		"port": 8080
+	},
+	"twitter": {
+		"consumerKey": "Consumer Key",
+		"consumerSecret": "Consumer secret",
+		"accessTokenKey": "Access Token Key",
+		"accessTokenSecret": "Access Token Secret",
+		"handles": [
+			"iWader"
+		],
+		"hashtag": "coffee"
 	}
 }

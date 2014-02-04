@@ -3,10 +3,10 @@
 	"author": "Wade Urry <hi@iwader.co.uk>",
 	"description": "A simple web app to count the amount of tea, coffee and biscuits consumed during development work",
 	"dependencies": {
-		"node-twitter-api": "*",
+		"twitter": "*",
 		"config": "*"
 	},
-	"respository": {
+	"repository": {
 		"type": "git",
 		"url": "https://github.com/iWader/twitter-coffee-counter.git"
 	},
